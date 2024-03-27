@@ -7,9 +7,9 @@ Library / Component: Styling page for the app
 
 :root {
     --primary-color: #1A4B84;
-    --chathams_blue: #1A4B84;
-    --tamarillo: #991E14;
-    --yellow_sea: #FEAD06;
+    --chathams_blue: #03e05f;
+    --tamarillo: #efff11;
+    --yellow_sea: #f5ad27;
 }
 
 body {
